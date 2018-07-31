@@ -1,2 +1,2 @@
- ##Simple Symfony project
+ #Simple Symfony project
  
