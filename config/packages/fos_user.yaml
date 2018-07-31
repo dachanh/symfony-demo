@@ -5,3 +5,5 @@ fos_user:
   from_email:
     address: "123@gmail.com"
     sender_name: "lamnguyen"
+  group :
+    group_class: App\Entity\Group
